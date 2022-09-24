@@ -14,7 +14,7 @@ opts_chunk$set(tidy.opts = list(width.cutoff = 60), tidy = TRUE)
 
 ```{r, echo=F}
 rm(list=ls(all=TRUE))
-fred_key = "e36f33d227cf9cca9a962cc847d4e0af"
+# fred_key = #insert own FRED API key
 ```
 
 ```{r, warning=F, message=F}
